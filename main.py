@@ -13,7 +13,7 @@ import base64
 import re
 
 NEED_BEFORE = False  # 如需补报则置为True，否则False
-START_DT = dt.datetime(2021, 01, 01)  # 需要补报的起始日期
+
 XIAOQU = "宝山"  # 宝山、嘉定或延长
 
 
